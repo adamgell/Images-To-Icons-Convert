@@ -40,3 +40,17 @@ E:\Disk D\مشاريعي C#\Convert Images to Icons\WindowsFormsApplication30\ob
 E:\Disk D\مشاريعي C#\Convert Images to Icons\WindowsFormsApplication30\obj\Debug\Images to Icons.application
 E:\Disk D\مشاريعي C#\Convert Images to Icons\WindowsFormsApplication30\obj\Debug\Images to Icons.exe
 E:\Disk D\مشاريعي C#\Convert Images to Icons\WindowsFormsApplication30\obj\Debug\Images to Icons.pdb
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\WindowsFormsApplication30.csproj.AssemblyReference.cache
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\WindowsFormsApplication30.Form1.resources
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\WindowsFormsApplication30.Properties.Resources.resources
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\WindowsFormsApplication30.csproj.GenerateResource.cache
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\WindowsFormsApplication30.csproj.CoreCompileInputs.cache
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\Images to Icons.exe
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\Images to Icons.pdb
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\bin\Debug\Images to Icons.exe.config
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\bin\Debug\Images to Icons.exe.manifest
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\bin\Debug\Images to Icons.application
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\bin\Debug\Images to Icons.exe
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\bin\Debug\Images to Icons.pdb
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\Images to Icons.exe.manifest
+C:\Users\adam\Documents\GitHub\Images-To-Icons-Convert\WindowsFormsApplication30\obj\Debug\Images to Icons.application

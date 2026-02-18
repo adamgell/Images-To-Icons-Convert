@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Images to Icons.exe" size="19000">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Images to Icons.exe" size="17408">
       <assemblyIdentity name="Images to Icons" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>IMjlmoNK99EtC3SzLMTeDjyY85gv7jAllowIKUYbBBY=</dsig:DigestValue>
+        <dsig:DigestValue>y+jzemKoYBGmQmC+JyZemDLlnbQV5qUUGE6Yk7TEsxU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -72,13 +72,13 @@
       <dsig:DigestValue>6LClaU95YsJW4PiEh+v8PfRA+Ci8q8Zge7F6tyeJFSk=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Images to Icons.exe.config" size="189">
+  <file name="Images to Icons.exe.config" size="184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>6N7MliNbVJSIAIPrecIshMbZ7zEoKLr5SQvud4LDUOw=</dsig:DigestValue>
+      <dsig:DigestValue>FihlZtVNgcNyH37Pf0Jtll3jZOm+L55ijXNjtoS2/mo=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

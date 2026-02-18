@@ -77,7 +77,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(420, 44);
             this.button2.TabIndex = 3;
-            this.button2.Text = "Convert to Icon";
+            this.button2.Text = "save";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
@@ -108,7 +108,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(144, 24);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Image Path:";
+            this.label1.Text = "مسار الصورة :";
             // 
             // label3
             // 
@@ -119,7 +119,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(171, 24);
             this.label3.TabIndex = 5;
-            this.label3.Text = "Icon Size:";
+            this.label3.Text = "الارتفاع والعرض :";
             // 
             // label2
             // 
@@ -130,7 +130,7 @@
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(652, 24);
             this.label2.TabIndex = 6;
-            this.label2.Text = "Convert images of all formats to icon files";
+            this.label2.Text = "برنامج يقوم بتحويل الصور بجميع امتداتها الى ايقونات بامتدادات ايقون";
             // 
             // label4
             // 
@@ -141,7 +141,7 @@
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(489, 24);
             this.label4.TabIndex = 7;
-            this.label4.Text = "Developed by Eng. Omar Abdulaziz";
+            this.label4.Text = "تصم تصميم هذا البرنامج بواسطة م/ عمر عبدالعزيز";
             // 
             // label5
             // 
@@ -176,10 +176,10 @@
             this.Margin = new System.Windows.Forms.Padding(6);
             this.MaximizeBox = false;
             this.Name = "Form1";
-            this.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.RightToLeftLayout = false;
+            this.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
+            this.RightToLeftLayout = true;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Images to Icons Converter";
+            this.Text = "تحويل الصور الى ايقونات";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

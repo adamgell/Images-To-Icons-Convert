@@ -4,7 +4,7 @@
   <description asmv2:publisher="Images to Icons" asmv2:product="Images to Icons" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.5.2" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="Images to Icons.exe.manifest" size="4351">
@@ -14,7 +14,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>cLeoLPpMpWE6pS7O7U7DHZaI95oIv25DpucMzqQygWE=</dsig:DigestValue>
+        <dsig:DigestValue>cbD1igfwQBMUOwTvkbHYLBmbKRlUUgbmDrJjP2Mi9ms=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
